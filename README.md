@@ -1,4 +1,6 @@
-# iubip-hack-2022
+# Start your career in IT with center invest
+
+Here is a quiz to find out what profession in IT suits you!
 
 ## Project setup
 ```
@@ -13,11 +15,6 @@ npm run serve
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
 ```
 
 ### Customize configuration
