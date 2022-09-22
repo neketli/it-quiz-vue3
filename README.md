@@ -1,20 +1,18 @@
-# Start your career in IT with center invest
+# Войти в IT :computer:
 
-Here is a quiz to find out what profession in IT suits you!
+Реализованное решение представляет собой игровую форму опроса в ходе которого вычисляются предрасположенности опрашиваемого человека к представленным проффессиям в сфере информационных технологий.
 
-## Project setup
-```
+![start-ci](https://user-images.githubusercontent.com/48692866/191681661-8267d3ec-ed35-4603-94ee-2611505b461e.gif)
+
+###  Что это и зачем? :bulb:
+
+Проект - призван помочь новичкам, которые не определились с профессией, но интересуются сферой IT. Игровая форма же позволяет легче воспринимать информацию и снять стресс.
+
+
+## Для разработки вам поможет это :keyboard:: 
+```bash
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
 ```
 
 ### Customize configuration
